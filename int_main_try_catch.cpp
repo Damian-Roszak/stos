@@ -2,7 +2,7 @@ int main ()
 {
 
 	try{
-		//Mój kod autor: Damian Roszak;
+		//Mój kod autor: Damian Roszak ;D
 	}
 
 	catch(out_of_range){

@@ -7,7 +7,7 @@ public:
 	class Nadmiar {};
 	
 	Stos (int s); // { std::cout << "utworzenie stosu";}
-	~Stos ();
+	~Stos (); // destruktor stosu
 	
 	void włóż (T);
 	T zdejmij ();

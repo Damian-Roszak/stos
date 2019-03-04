@@ -6,7 +6,7 @@ public:
 	class Niedomiar {};
 	class Nadmiar {};
 	
-	Stos (int s);
+	Stos (int s); // { std::cout << "utworzenie stosu";}
 	~Stos ();
 	
 	void włóż (T);
